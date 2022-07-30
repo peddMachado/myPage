@@ -1,4 +1,26 @@
 html, body {
+  background: #154199;
   height: 100%;
   width: 100%;
+}
+
+.primeira {
+  width: 400px;
+  height: 1000px;
+  background-color: #000;
+  padding: 20px;
+  color: #fff;
+  margin: 0 auto;
+  margin-top: 45px;
+  text-align: center;
+}
+
+.primeira h1 {
+  color: #fff;
+  font-size: 100px;
+}
+
+.primeira p {
+  color: #8c9097;
+  font-size: 30px;
 }
